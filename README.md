@@ -30,4 +30,6 @@ I'm from Kerala, India. I like finding patterns in data that actually mean somet
 <a href="https://www.linkedin.com/in/anaam-bind-hussain" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
+<a href="https://www.kaggle.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
