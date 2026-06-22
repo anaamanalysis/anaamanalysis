@@ -27,5 +27,7 @@ BTech final year student in AI & Data Science. I build things with data — from
 I'm from Kerala, India. I like finding patterns in data that actually mean something. Outside of tech, I'm curious about how people behave online — which is why a lot of my projects end up being about human behaviour and social patterns. Final year starts July 2025. Open to internships and entry-level roles in AI/ML and automation.
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaam-bind-hussain)
+<a href="https://www.linkedin.com/in/anaam-bind-hussain" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
