@@ -1,6 +1,6 @@
 # Hi, I'm Anaam 👋
 
-BTech final year student in AI & Data Science. I build things with data — from exploratory analysis to machine learning models to AI agents. Currently learning automation and AI agent development.
+BTech final year student in AI & Data Science. I build things with data,from exploratory analysis to machine learning models to AI agents. Currently learning automation and AI agent development.
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,15 +16,16 @@ BTech final year student in AI & Data Science. I build things with data — from
 ## Currently learning
 - LangChain & AI agent frameworks
 - Automation workflows
-- RAG (Retrieval Augmented Generation) pipelines
+- RAG (Retrieval Augmented Generation) pipeline
+-Building websites using various AI tools and deployment platforms
 
 ## What I'm working on
 - Social media usage & behaviour analysis — EDA + interactive dashboard
-- ML model for a real-world classification problem
+- completely automated instagram lead management workflow
 - AI study assistant agent using LangChain + RAG
 
 ## A bit about me
-I'm from Kerala, India. I like finding patterns in data that actually mean something. Outside of tech, I'm curious about how people behave online — which is why a lot of my projects end up being about human behaviour and social patterns. Final year starts July 2025. Open to internships and entry-level roles in AI/ML and automation.
+I'm from Kerala, India. I like finding patterns in data that actually mean something. Outside of tech, I'm curious to bring a great mindset shift in current generation.How they see tech and healthy habits, behave online. Final year starts July 2026. Open to internships and entry-level roles in AI/ML and automation.
 
 ## Connect
 <a href="https://www.linkedin.com/in/anaam-bind-hussain" target="_blank">
